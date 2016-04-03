@@ -1,0 +1,6 @@
+E:\Projects\ObserverExample\ObserverExample\bin\Debug\ObserverExample.exe.config
+E:\Projects\ObserverExample\ObserverExample\bin\Debug\ObserverExample.exe
+E:\Projects\ObserverExample\ObserverExample\bin\Debug\ObserverExample.pdb
+E:\Projects\ObserverExample\ObserverExample\obj\Debug\ObserverExample.csprojResolveAssemblyReference.cache
+E:\Projects\ObserverExample\ObserverExample\obj\Debug\ObserverExample.exe
+E:\Projects\ObserverExample\ObserverExample\obj\Debug\ObserverExample.pdb
